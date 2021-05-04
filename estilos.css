@@ -13,10 +13,10 @@ body {background: rgb(231, 231, 231);}
 
 
 .container-all {max-width: 1000px;
-   margin-left: -5px;
+   margin-left: -60px;
    margin-top: 10px; }
  
-.main-title {text-align: center; font-size: 40px;
+.main-title {text-align: center; font-size: 30px;
               font-weight: 400;
           }
 
