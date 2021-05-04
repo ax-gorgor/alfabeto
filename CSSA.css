@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300&display=swap');
  
- *{ margin: 10 10 10 10;
-    padding: 0px;
+ *{ margin: 5px;
+    padding: 5px;
+    margin-left: 50px;
     box-sizing: border-box;
     font-family: 'Heebo', sans-serif;
    }
@@ -11,8 +12,9 @@ body {background: rgb(231, 231, 231);}
 
  
 
-.main-titleararat {font-size:25px;
-   color: #000;
+.main-titleararat {font-size:35px;
+   color: #000; justify-content: center;
 }
+.ararat{margin-left: 125px;}
 
 a{ text-decoration: none;}
