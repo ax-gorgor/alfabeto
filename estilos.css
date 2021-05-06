@@ -13,10 +13,10 @@ body {background: rgb(231, 231, 231);}
 
 
 .container-all {max-width: 1000px;
-   margin-left: -60px;
-   margin-top: 5px; }
+   margin: auto;
+   margin-top: 15px; }
  
-.main-title {text-align: center; font-size: 14px;
+.main-title {text-align: center; font-size: 24px;
               font-weight:400;
           }
 
@@ -37,7 +37,7 @@ body {background: rgb(231, 231, 231);}
 .box{width: 250px;
       height:  180px;
      padding: 20px;
-     margin: 5px;
+     margin: 15px;
      background:#fff 20px;
      text-align: center;
      position: relative;
@@ -174,10 +174,9 @@ background: linear-gradient(to bottom, rgb(225, 115, 0), rgb(255, 148, 48));
 .box5 .background-hover{background: linear-gradient(to bottom, #e33a67, #ea003f )}
 
 /*box6*/
+.box6 .icon{color: #3dc315;}
 
-.box6 .icon{color: #5980d8}
-
-.box6 .background-hover{background: linear-gradient(to bottom, #5980d8, #27324d )}
+.box6 .background-hover {background: linear-gradient(to bottom, #3dc315, #fdb42a )}
 
 
-.ararat{margin-right: 15px;}
+ 
