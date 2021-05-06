@@ -171,12 +171,14 @@ background: linear-gradient(to bottom, rgb(225, 115, 0), rgb(255, 148, 48));
 
 .box5 .icon{color: #e33a67}
 
-.box5 .background-hover{background: linear-gradient(to bottom, #e33a67, #ea003f )}
+.box5 .background-hover{background: linear-gradient(to bottom, #e33a67, #ea003f ); top: 170px;
+   left: 500px;}}
 
 /*box6*/
 .box6 .icon{color: #3dc315;}
 
-.box6 .background-hover {background: linear-gradient(to bottom, #3dc315, #fdb42a )}
+.box6 .background-hover {background: linear-gradient(to bottom, #3dc315, #fdb42a ); top: 170px;
+   left: 500px;}}
 
 /*box7*/
 .box7 .icon{color: #00d3d3}
@@ -192,9 +194,29 @@ background: linear-gradient(to bottom, rgb(225, 115, 0), rgb(255, 148, 48));
    left: 500px;}
 
 /*box9*/
-.box9 .icon{color: #dd0f0f}
+.box9 .icon{color: #3dc315;}
 
-.box9 .background-hover{background: linear-gradient(to bottom, #dd0f0f, #ffa700 );  top: -170px;
+.box9 .background-hover{background: linear-gradient(to bottom, #3dc315, #fdb42a );  top: -170px;
    left: 500px;}
 
+
+   /*box10*/
+.box10 .icon{color: #00d3d3}
+
+.box10 .background-hover{background: linear-gradient(to bottom, #00d3d3, #0090ea );  top: -170px;
+   left: 500px;}
+
+
+   /*box11*/
+.box11 .icon{color:#d300cb}
+
+.box11 .background-hover{background: linear-gradient(to bottom, #d300cb, #9d00f0 );  top: -170px;
+   left: 500px;}
+
+
+   /*box12*/
+.box12 .icon{color: #dd0f0f}
+
+.box12 .background-hover{background: linear-gradient(to bottom, #dd0f0f, #ffa700 );  top: -170px;
+   left: 500px;}
  
