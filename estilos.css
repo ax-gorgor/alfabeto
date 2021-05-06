@@ -172,13 +172,13 @@ background: linear-gradient(to bottom, rgb(225, 115, 0), rgb(255, 148, 48));
 .box5 .icon{color: #e33a67}
 
 .box5 .background-hover{background: linear-gradient(to bottom, #e33a67, #ea003f ); top: 170px;
-   left: 500px;}}
+   left: 500px;}
 
 /*box6*/
 .box6 .icon{color: #3dc315;}
 
 .box6 .background-hover {background: linear-gradient(to bottom, #3dc315, #fdb42a ); top: 170px;
-   left: 500px;}}
+   left: 500px;}
 
 /*box7*/
 .box7 .icon{color: #00d3d3}
