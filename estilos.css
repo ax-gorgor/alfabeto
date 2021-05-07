@@ -144,11 +144,11 @@ background: linear-gradient(to bottom, rgb(225, 115, 0), rgb(255, 148, 48));
 
 /* cambiar color de las diferentes cajas */
 
-/*box1*/
+/*box1
 
 .box1 .icon{color: #3dc315;}
 
-.box1 .background-hover{background: linear-gradient(to bottom, #3dc315, #fdb42a )}
+.box1 .background-hover{background: linear-gradient(to bottom, #3dc315, #fdb42a )} */
 
 /*box2*/
 
