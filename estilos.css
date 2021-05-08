@@ -34,8 +34,8 @@ body {background: rgb(231, 231, 231);}
    color: #000;
 }
 
-.box{width: 280px;
-      height:  210px;
+.box{width: 250px;
+      height:  180px;
      padding: 20px;
      margin: 15px;
      background:rgb(226, 226, 226) 20px;
@@ -51,7 +51,7 @@ body {background: rgb(231, 231, 231);}
 
 
     
-   .box img{object-fit: cover;}
+ 
    
 
 
@@ -81,6 +81,7 @@ body {background: rgb(231, 231, 231);}
         color: white;
         font-size: 30px;
         transform: translateY(40);
+        z-index: 0;
         
 
 }
@@ -96,7 +97,7 @@ body {background: rgb(231, 231, 231);}
 .box:hover h4{
 
    transform: translateY(0);
-   color:  black;
+   color:  rgb(0, 0, 0);
    margin-top: -30px;
     
 }
@@ -117,6 +118,8 @@ body {background: rgb(231, 231, 231);}
    opacity: 1;
    color: black;
 }
+
+
 
 .box .background-hover{
 width: 100px;
@@ -152,18 +155,18 @@ background: linear-gradient(to bottom, rgb(225, 115, 0), rgb(255, 148, 48));
 
 /*box2*/
 
-.box2 .icon{color: #00d3d3}
+/*.box2 .icon{color: #00d3d3} 
 
 .box2 .background-hover{background: linear-gradient(to bottom, #00d3d3, #0090ea );  top: -170px;
-   left: -250px;}
+   left: -250px;}*/
 
 
 /*box3*/
 
-.box3 .icon{color: #d300cb; }
+/*.box3 .icon{color: #d300cb; }
 
 .box3 .background-hover{background: linear-gradient(to bottom, #d300cb, #9d00f0 ); top: 170px;
-   left: 500px;}
+   left: 500px;}*/
 
 
 /*box4*/
