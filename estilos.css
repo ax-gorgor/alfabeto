@@ -149,7 +149,9 @@ background: linear-gradient(to bottom, rgb(225, 115, 0), rgb(255, 148, 48));
 
 /* cambiar color de las diferentes cajas */
 
-/*box1
+ 
+
+/*box1*/
 
 .box1 .icon{color: #3dc315;}
 
@@ -157,18 +159,18 @@ background: linear-gradient(to bottom, rgb(225, 115, 0), rgb(255, 148, 48));
 
 /*box2*/
 
-/*.box2 .icon{color: #00d3d3} 
+ .box2 .icon{color: #00d3d3} 
 
 .box2 .background-hover{background: linear-gradient(to bottom, #00d3d3, #0090ea );  top: -170px;
-   left: -250px;}*/
+   left: -250px;}
 
 
 /*box3*/
 
-/*.box3 .icon{color: #d300cb; }
+ .box3 .icon{color: #d300cb; }
 
 .box3 .background-hover{background: linear-gradient(to bottom, #d300cb, #9d00f0 ); top: 170px;
-   left: 500px;}*/
+   left: 500px;} 
 
 
 /*box4*/
