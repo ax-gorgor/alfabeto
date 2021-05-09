@@ -9,7 +9,7 @@
 
 body {background: rgb(231, 231, 231);}
 
-.in-flex{min-width: 450px;}
+.in-flex{min-width: 250px;}
 
 
 .container-all {max-width: 1000px;
@@ -35,7 +35,7 @@ body {background: rgb(231, 231, 231);}
 }
 
 .box{width: 250px;
-      height:  200px;
+      height:  220px;
      padding: 20px;
      margin: 15px;
      background:rgb(226, 226, 226) 20px;
