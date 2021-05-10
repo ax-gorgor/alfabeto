@@ -84,12 +84,10 @@ body {background: rgb(231, 231, 231);}
         font-size: 30px;
         transform: translateY(40);
         z-index: 0;
-        
-
-}
+               }
 
 .box h4,
-.box p{margin-top: -3px;}
+.box p{margin-top: -10px;}
 
 .box h4{font-size: 36px;
     transform: translateY(30px);
@@ -417,3 +415,22 @@ background: linear-gradient(to bottom, rgb(225, 115, 0), rgb(255, 148, 48));
 
 .box40 .background-hover{background: linear-gradient(to bottom, #dd0f0f, #ffa700 );  top: -170px;
    left: 500px;}
+
+   .search-box{position: relative; display: grid; top: 50%; left: 50%;
+   transform: translate(-50%,-50%); height: 40px; background: coral;
+    padding: 20px; justify-content: center;}
+
+    .search-btn{
+       color:greenyellow ;
+       float: right;
+       width: 40px;
+       height: 40px;
+       border-radius: 50%;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+
+
+    }
+
+ 
