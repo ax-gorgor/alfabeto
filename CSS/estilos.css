@@ -6,19 +6,19 @@
     font-family: 'Heebo', sans-serif;
    }
 
-.aprendamos{width: 400px; height: 200px; display: block; box-sizing: border-box; position: relative;
-             border-radius: 10px; background: #00d3d3; margin: auto;
-              margin-top: 150px; font-family: Arial, Helvetica, sans-serif;
+.aprendamos{width: 300px; height: 200px; display: block; box-sizing: border-box; position: relative;
+             border-radius: 10px; background: #00d3d3; margin: auto;font-size: 18px;
+              margin-top: 180px; font-family: Arial, Helvetica, sans-serif;
               }
 
-.letras12{opacity: .7;position: absolute; transform: translateX(35px); margin-top: 70px;}
+.letras12{opacity: .7;position: absolute; transform: translateX(35px); margin-top: 50px;}
 
 .click{width: 80px; height: 35px; background: #00ffff ;position:  absolute;
           transform: translateX(160px); margin-top: 130px; border-radius: 8%; }
 
 .click12{font-family: Arial, Helvetica, sans-serif; color: #000; opacity: 0.9;
-   opacity: .8;position: absolute; transform: translateX(25px);
-    margin-top: 10px;  text-decoration: none;}
+   opacity: .8;position: absolute; transform: translateX(22px);
+    margin-top: 9px;  text-decoration: none;}
 
 #aaa {color: #58eef3;} 
 #bbb{color:#be53d3}  
@@ -51,64 +51,64 @@
 animation: burbujas 3s linear infinite;
 }
 
-.burbuja:nth-child(1){font-size: 30px; left: 5%;  
+.burbuja:nth-child(1){font-size: 15px; left: 5%;  
              animation-duration: 9s; animation-delay: 0.2s;}
 
-.burbuja:nth-child(2){font-size: 50px; left: 35%;
+.burbuja:nth-child(2){font-size: 12px; left: 35%;
               animation-duration: 7s; animation-delay: 5s;}
               
-.burbuja:nth-child(3){font-size: 30px; left: 85%;
+.burbuja:nth-child(3){font-size: 10px; left: 85%;
 animation-duration: 8s; animation-delay: 2s;}
 
-.burbuja:nth-child(4){font-size: 35px; left: 65%;
+.burbuja:nth-child(4){font-size: 18px; left: 65%;
 animation-duration: 9s; animation-delay: 0.3s;}
 
-.burbuja:nth-child(5){font-size: 30px; left: 55%;
+.burbuja:nth-child(5){font-size: 8px; left: 55%;
 animation-duration: 6s; animation-delay: 3.1s;}
 
-.burbuja:nth-child(6){font-size: 50px; left: 25%;
+.burbuja:nth-child(6){font-size: 13px; left: 25%;
 animation-duration: 11s; animation-delay: 0.5s;}
 
-.burbuja:nth-child(7){font-size: 25px; left: 50%;
+.burbuja:nth-child(7){font-size: 15px; left: 50%;
 animation-duration: 12s; animation-delay: 2.5s;}
 
-.burbuja:nth-child(8){font-size: 38px; left: 15%;
+.burbuja:nth-child(8){font-size: 18px; left: 15%;
    animation-duration: 8s; animation-delay: 0.2s;}
 
-.burbuja:nth-child(9){font-size: 28px; left: 47%;
+.burbuja:nth-child(9){font-size: 10px; left: 47%;
    animation-duration: 10s; animation-delay: 1s;}
 
-.burbuja:nth-child(10){font-size: 40px; left: 72%;
+.burbuja:nth-child(10){font-size: 12px; left: 72%;
    animation-duration: 8s; animation-delay: 2s;}
 
-.burbuja:nth-child(11){font-size: 40px; left: 62%;
+.burbuja:nth-child(11){font-size: 9px; left: 62%;
       animation-duration: 9s; animation-delay: 0.8s;}
 
-.burbuja:nth-child(12){font-size: 40px; left: 58%;
+.burbuja:nth-child(12){font-size: 17px; left: 58%;
      animation-duration: 11s; animation-delay: 1.2s;}
 
-.burbuja:nth-child(13){font-size: 40px; left: 81%;
+.burbuja:nth-child(13){font-size: 14px; left: 81%;
     animation-duration: 12s; animation-delay: 1.4s;}
 
-.burbuja:nth-child(14){font-size: 40px; left: 26%;
+.burbuja:nth-child(14){font-size: 11px; left: 26%;
      animation-duration: 7s; animation-delay: 0.2s;}
 
-.burbuja:nth-child(15){font-size: 40px; left: 14%;
+.burbuja:nth-child(15){font-size: 7px; left: 14%;
     animation-duration: 8s; animation-delay: 1.8s;}
 
-.burbuja:nth-child(16){font-size: 40px; left: 15%;
+.burbuja:nth-child(16){font-size: 12px; left: 15%;
     animation-duration: 10s; animation-delay: 1.4s;}
 
-.burbuja:nth-child(17){font-size: 40px; left: 20%;
+.burbuja:nth-child(17){font-size: 18px; left: 20%;
    animation-duration: 11s; animation-delay: 1.6s;}
 
-.burbuja:nth-child(18){font-size: 40px; left: 27%;
+.burbuja:nth-child(18){font-size: 12px; left: 27%;
      animation-duration: 16s; animation-delay: 0.7s;}
 
-.burbuja:nth-child(19){font-size: 40px; left: 50%;
+.burbuja:nth-child(19){font-size: 10px; left: 50%;
    animation-duration: 11s; animation-delay: 0.5s;}
 
-.burbuja:nth-child(20){font-size: 40px; left: 93%;
+.burbuja:nth-child(20){font-size: 8px; left: 93%;
     animation-duration: 14s; animation-delay: 0.3s;}
    
    
