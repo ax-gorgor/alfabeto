@@ -52,7 +52,7 @@ animation: burbujas 3s linear infinite;
 }
 
 .burbuja:nth-child(1){font-size: 15px; left: 5%;  
-             animation-duration: 9s; animation-delay: 0.2s;}
+             animation-duration: 9s; animation-delay: 0.2ms;}
 
 .burbuja:nth-child(2){font-size: 25px; left: 35%;
               animation-duration: 12s; animation-delay: 5s;}
@@ -61,7 +61,7 @@ animation: burbujas 3s linear infinite;
 animation-duration: 8s; animation-delay: 3.6s;}
 
 .burbuja:nth-child(4){font-size: 28px; left: 65%;
-animation-duration: 9s; animation-delay: 1s;}
+animation-duration: 9s; animation-delay: 1ms;}
 
 .burbuja:nth-child(5){font-size: 14px; left: 55%;
 animation-duration: 9s; animation-delay: 4.5s;}
@@ -85,7 +85,7 @@ animation-duration: 12s; animation-delay: 4.8s;}
       animation-duration: 9s; animation-delay: 5s;}
 
 .burbuja:nth-child(12){font-size: 23px; left: 58%;
-     animation-duration: 11s; animation-delay: 3s;}
+     animation-duration: 11s; animation-delay: 3ms;}
 
 .burbuja:nth-child(13){font-size: 27px; left: 81%;
     animation-duration: 12s; animation-delay: 1s;}
@@ -103,7 +103,7 @@ animation-duration: 12s; animation-delay: 4.8s;}
    animation-duration: 11s; animation-delay: 6s;}
 
 .burbuja:nth-child(18){font-size: 12px; left: 27%;
-     animation-duration: 16s; animation-delay: 4s;}
+     animation-duration: 16s; animation-delay: 4ms;}
 
 .burbuja:nth-child(19){font-size: 21px; left: 50%;
    animation-duration: 11s; animation-delay: 2s;}
