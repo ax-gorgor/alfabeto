@@ -619,8 +619,12 @@ background: linear-gradient(to bottom, rgb(225, 115, 0), rgb(255, 148, 48));
 .box146{width: 350px; height: 250px; background: #cbd3d3;
    margin: auto; margin-top:200px; font-size: 45px; position: relative;}
 
-         ul{padding: 5px;  top:50%; left: 50%;   
-          transform: translateX(30%) translateY(660%);}
+     .araratmasis{padding: 5px;  top:50%; left: 50%;   
+          transform: translateX(20%) translateY(660%);}
+    
+          .parevtzedz{padding: 5px;  top:50%; left: 50%;   
+            transform: translateX(30%) translateY(660%);}
+
       
       ul li{list-style: none; float: left;
              transition: 2s;}
