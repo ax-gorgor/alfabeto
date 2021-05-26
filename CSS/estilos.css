@@ -620,7 +620,7 @@ background: linear-gradient(to bottom, rgb(225, 115, 0), rgb(255, 148, 48));
    margin: auto; margin-top:200px; font-size: 45px; position: relative;}
 
      .araratmasis{padding: 5px;  top:50%; left: 50%;   
-          transform: translateX(20%) translateY(660%);}
+          transform: translateX(18%) translateY(660%);}
     
           .parevtzedz{padding: 5px;  top:50%; left: 50%;   
             transform: translateX(30%) translateY(660%);}
