@@ -21,33 +21,33 @@
    opacity: .8;position: absolute; transform: translateX(18px);
     margin-top: 9px;  text-decoration: none;}
 
-#aaa {color: #58eef3;} 
-#bbb{color:#be53d3}  
-#ccc{color:#bd47e7}  
-#ddd{color: #e66194;}
-#eee{color:#e66fc2}
-#ddd{color:rgb(95, 32, 212)}
-#fff{color: rgb(238, 52, 222);}
-#ggg{color:rgb(130, 211, 130)}
-#hhh{color:rgb(236, 81, 236)}
-#iii{color:rgb(248, 64, 156)}
-#jjj{color:rgb(136, 39, 206)}
-#kkk{color:rgb(59, 86, 238)}
-#lll{color:rgb(136, 54, 54)}
-#mmm{color:rgb(93, 233, 116)}
-#nnn{color:rgb(32, 133, 158)}
-#ooo{color:rgb(153, 54, 140)}
-#ppp{color:rgb(26, 231, 163)}
-#qqq{color:rgb(247, 51, 214)}
-#rrr{color:rgb(21, 145, 72)}
-#sss{color:rgb(179, 99, 236)}
-#ttt{color:rgb(240, 116, 198)}
+#aaa {color: #d90012;} 
+#bbb{color:#0033a0}  
+#ccc{color:#f2a800}  
+#ddd{color: #d90012;}
+#eee{color:#f2a800}
+#ddd{color:#f2a800}
+#fff{color: #0033a0;}
+#ggg{color:#d90012}
+#hhh{color:#f2a800}
+#iii{color:#f2a800}
+#jjj{color:#d90012}
+#kkk{color:#0033a0}
+#lll{color:#d90012}
+#mmm{color:#f2a800}
+#nnn{color:#f2a800}
+#ooo{color:#f2a800}
+#ppp{color:#0033a0}
+#qqq{color:#d90012}
+#rrr{color:#f2a800}
+#sss{color:#0033a0}
+#ttt{color:#d90012}
 
 /*burbujas*/
 
 .burbuja{
    position: absolute
-   ; bottom: -150%;
+   ; bottom: -10%;
    
 animation: burbujas 3s linear infinite;
 }
@@ -633,3 +633,21 @@ background: linear-gradient(to bottom, rgb(225, 115, 0), rgb(255, 148, 48));
 
              .hola{position: absolute; font-size: 20px;padding: 5px;
                margin-top: 150px; margin-left: 150px;}
+
+/* karun */
+
+.box147{width: 350px; height: 250px; background: #cbd3d3;
+   margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+
+   ul li{list-style: none; float: left;
+      transition: 2s;}
+
+      ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+
+.karuniegav{padding: 5px;  top:50%; left: 50%;   
+   transform: translateX(27%) translateY(660%);}
+
+.primavera{position: absolute; font-size: 20px;padding: 5px;
+   margin-top: 150px; margin-left: 130px;}
+
+
