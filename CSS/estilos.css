@@ -665,3 +665,38 @@ background: linear-gradient(to bottom, rgb(225, 115, 0), rgb(255, 148, 48));
 
 .dinero{position: absolute; font-size: 20px;padding: 5px;
    margin-top: 150px; margin-left: 140px;}
+
+   /* yerevan*/
+
+   .box149{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+      margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+   
+      ul li{list-style: none; float: left;
+         transition: 2s;}
+   
+         ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+   
+   .mayrakaghak{padding: 5px;  top:50%; left: 50%;   
+      transform: translateX(26%) translateY(660%);}
+   
+   .capital{position: absolute; font-size: 20px;padding: 5px;
+      margin-top: 150px; margin-left: 140px;}
+
+      /* nazeli */
+
+      .box150{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+         margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+      
+         ul li{list-style: none; float: left;
+            transition: 2s;}
+      
+            ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+      
+      .anun{padding: 5px;  top:50%; left: 50%;   
+         transform: translateX(26%) translateY(660%);}
+      
+      .nombredemujer{position: absolute; font-size: 20px;padding: 5px;
+         margin-top: 150px; margin-left: 140px;}
+
+     .nazeli{margin-left: -45px;}
+
