@@ -700,3 +700,57 @@ background: linear-gradient(to bottom, rgb(225, 115, 0), rgb(255, 148, 48));
 
      .nazeli{margin-left: -45px;}
 
+     /* pagina */
+
+     .box151{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+      margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+   
+      ul li{list-style: none; float: left;
+         transition: 2s;}
+   
+         ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+   
+   .echi{padding: 5px;  top:30%; left: 50%;   
+      transform: translateX(42%) translateY(660%);}
+   
+   .pagina{position: absolute; font-size: 20px;padding: 5px;
+      margin-top: 150px; margin-left: 145px;}
+
+      /* ser estar */
+
+      .box152{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+         margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+      
+         ul li{list-style: none; float: left;
+            transition: 2s;}
+      
+            ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+      
+      .linel{padding: 5px;  top:30%; left: 50%;   
+         transform: translateX(34%) translateY(660%);}
+      
+      .serestar{position: absolute; font-size: 20px;padding: 5px;
+         margin-top: 150px; margin-left: 125px;}
+
+         /* Talin */
+
+         .box153{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+            margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+         
+            ul li{list-style: none; float: left;
+               transition: 2s;}
+         
+               ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+         
+         .talin{padding: 5px;  top:30%; left: 50%;   
+            transform: translateX(30%) translateY(660%);}
+         
+         .otronombre{position: absolute; font-size: 22px;padding: 5px;
+            margin-top: 150px; margin-left: 145px;}
+
+         .talin1 {margin-left: -45px; font-size: 18px;}
+
+
+
+  
+
