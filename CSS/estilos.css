@@ -750,6 +750,113 @@ background: linear-gradient(to bottom, rgb(225, 115, 0), rgb(255, 148, 48));
 
          .talin1 {margin-left: -45px; font-size: 18px;}
 
+         /* hora */
+
+         .box154{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+            margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+         
+            ul li{list-style: none; float: left;
+               transition: 2s;}
+         
+               ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+         
+         .djam{padding: 5px;  top:30%; left: 50%;   
+            transform: translateX(35%) translateY(660%);}
+         
+         .reloj{position: absolute; font-size: 22px;padding: 5px;
+            margin-top: 150px; margin-left: 145px;}
+
+            /* nueve */
+
+            .box155{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+               margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+            
+               ul li{list-style: none; float: left;
+                  transition: 2s;}
+            
+                  ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+            
+            .tivme{padding: 5px;  top:30%; left: 50%;   
+               transform: translateX(38%) translateY(660%);}
+            
+            .numero{position: absolute; font-size: 22px;padding: 5px;
+               margin-top: 150px; margin-left: 145px;}
+
+               /*luna*/
+
+
+               .box156{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+                  margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+               
+                  ul li{list-style: none; float: left;
+                     transition: 2s;}
+               
+                     ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+               
+               .kisher{padding: 5px;  top:30%; left: 50%;   
+                  transform: translateX(28%) translateY(660%);}
+               
+               .satelitenatural{position: absolute; font-size: 22px;padding: 5px;
+                  margin-top: 150px; margin-left: 145px;}
+
+/* negocio */
+
+.box157{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+   margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+
+   ul li{list-style: none; float: left;
+      transition: 2s;}
+
+      ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+
+.abrank{padding: 5px;  top:30%; left: 50%;   
+   transform: translateX(26%) translateY(660%);}
+
+.negocio{position: absolute; font-size: 22px;padding: 5px;
+   margin-top: 150px; margin-left: 140px;}
+
+   /* flor */
+
+   .box158{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+      margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+   
+      ul li{list-style: none; float: left;
+         transition: 2s;}
+   
+         ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+   
+   .vartuhi{padding: 5px;  top:30%; left: 50%;   
+      transform: translateX(30%) translateY(660%);}
+   
+   .planta{position: absolute; font-size: 22px;padding: 5px;
+      margin-top: 150px; margin-left: 150px;}
+
+/* gato */
+
+.box159{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+   margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+
+   ul li{list-style: none; float: left;
+      transition: 2s;}
+
+      ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+
+.gadunere{padding: 5px;  top:30%; left: 50%;   
+   transform: translateX(30%) translateY(660%);}
+
+.felino{position: absolute; font-size: 22px;padding: 5px;
+   margin-top: 150px; margin-left: 150px;}
+
+
+
+
+
+   
+
+
+          
+
+
 
 
   
