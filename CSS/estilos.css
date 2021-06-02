@@ -847,6 +847,105 @@ background: linear-gradient(to bottom, rgb(225, 115, 0), rgb(255, 148, 48));
 .felino{position: absolute; font-size: 22px;padding: 5px;
    margin-top: 150px; margin-left: 150px;}
 
+   /* armenia */
+
+   .box160{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+      margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+   
+      ul li{list-style: none; float: left;
+         transition: 2s;}
+   
+         ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+   
+   .ashjar{padding: 5px;  top:30%; left: 50%;   
+      transform: translateX(15%) translateY(660%);}
+   
+   .patria{position: absolute; font-size: 22px;padding: 5px;
+      margin-top: 150px; margin-left: 130px;}
+
+/* pez */
+
+.box161{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+   margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+
+   ul li{list-style: none; float: left;
+      transition: 2s;}
+
+      ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+
+.tzuguer{padding: 5px;  top:30%; left: 50%;   
+   transform: translateX(35%) translateY(660%);}
+
+.peces{position: absolute; font-size: 22px;padding: 5px;
+   margin-top: 150px; margin-left: 150px;}
+
+   /* karabagh */
+
+   .box162{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+      margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+   
+      ul li{list-style: none; float: left;
+         transition: 2s;}
+   
+         ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+   
+   .artsaji{padding: 5px;  top:30%; left: 50%;   
+      transform: translateX(15%) translateY(660%);}
+   
+   .nagorno{position: absolute; font-size: 22px;padding: 5px;
+      margin-top: 150px; margin-left: 130px;}
+
+   .republica {margin-left: -35px; font-size: 18px;}
+
+   /* camino */
+
+   .box163{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+      margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+   
+      ul li{list-style: none; float: left;
+         transition: 2s;}
+   
+         ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+   
+   .djanabar{padding: 5px;  top:30%; left: 50%;   
+      transform: translateX(25%) translateY(660%);}
+   
+   .carretera{position: absolute; font-size: 22px;padding: 5px;
+      margin-top: 150px; margin-left: 105px;}
+
+/* madre */
+.box164{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+   margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+
+   ul li{list-style: none; float: left;
+      transition: 2s;}
+
+      ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+
+.horieghpair{padding: 5px;  top:30%; left: 50%;   
+   transform: translateX(35%) translateY(660%);}
+
+.diauno{position: absolute; font-size: 22px;padding: 5px;
+   margin-top: 150px; margin-left: 140px;}
+
+   /* junio */
+
+   .box165{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+      margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+   
+      ul li{list-style: none; float: left;
+         transition: 2s;}
+   
+         ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+   
+   .amisner{padding: 5px;  top:30%; left: 50%;   
+      transform: translateX(25%) translateY(660%);}
+   
+   .mes{position: absolute; font-size: 22px;padding: 5px;
+      margin-top: 150px; margin-left: 145px;}
+
+
+    
 
 
 
