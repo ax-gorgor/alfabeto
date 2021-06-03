@@ -944,6 +944,55 @@ background: linear-gradient(to bottom, rgb(225, 115, 0), rgb(255, 148, 48));
    .mes{position: absolute; font-size: 22px;padding: 5px;
       margin-top: 150px; margin-left: 145px;}
 
+   /* naranja */
+
+   .box166{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+      margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+   
+      ul li{list-style: none; float: left;
+         transition: 2s;}
+   
+         ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+   
+   .bdughner{padding: 5px;  top:30%; left: 50%;   
+      transform: translateX(27%) translateY(660%);}
+   
+   .frutas{position: absolute; font-size: 22px;padding: 5px;
+      margin-top: 150px; margin-left: 135px;}
+
+ /* perro */
+
+ .box167{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+   margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+
+   ul li{list-style: none; float: left;
+      transition: 2s;}
+
+      ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+
+.shuner{padding: 5px;  top:30%; left: 50%;   
+   transform: translateX(38%) translateY(660%);}
+
+.canes{position: absolute; font-size: 22px;padding: 5px;
+   margin-top: 150px; margin-left: 145px;}
+
+   /* calle */
+
+   .box168{box-sizing: border-box; width: 350px; height: 250px; background: #cbd3d3;
+      margin: auto; margin-top:200px; font-size: 45px; position: relative;}
+   
+      ul li{list-style: none; float: left;
+         transition: 2s;}
+   
+         ul:hover .rotacion {transform: rotateY(360deg); color: red;}
+   
+   .boghoda{padding: 5px;  top:30%; left: 50%;   
+      transform: translateX(30%) translateY(660%);}
+   
+   .asfalto{position: absolute; font-size: 22px;padding: 5px;
+      margin-top: 150px; margin-left: 145px;}
+
+
 
     
 
